@@ -21,7 +21,7 @@ Boa sorte!
 Tutorial de como utilizar o URI: https://www.loom.com/share/1a7b7b00c41e4975aca013ef0814410b
 
 
-### 2.1 INICIANTE (1 pontos cada, fazer no mínimo 2 exercícios)
+### 2.1 INICIANTE (1 ponto cada, fazer no mínimo 2 exercícios)
   - Área do circulo: https://www.urionlinejudge.com.br/judge/pt/problems/view/1002
   - Salário com bônus: https://www.urionlinejudge.com.br/judge/pt/problems/view/1009
   - Cédulas: https://www.urionlinejudge.com.br/judge/pt/problems/view/1018
