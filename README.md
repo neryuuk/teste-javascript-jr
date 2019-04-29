@@ -8,7 +8,7 @@ Se você recebeu um convite para estar aqui você faz parte de um grupo de pesso
 
 Fizemos este teste com muito carinho e esperamos que você consiga se sair bem 👍
 
-O teste consiste em testar sua lógica de programação! Para isso utilizamos a ferramenta [URI](https://www.urionlinejudge.com.br), uma plataforma com diversos problemas de maratona de programação, onde você pode utilizar diversas linguagens para resolve-los (```Java```, ```Python```, ```NodeJs```, entre outras). Utilize a linguagem que achar melhor! (pontos extras para quem usar Javascript ;D)
+O teste consiste em testar sua lógica de programação! Para isso utilizamos a ferramenta [URI](https://www.urionlinejudge.com.br), uma plataforma com diversos problemas de maratona de programação, onde você pode utilizar diversas linguagens para resolvê-los (```Java```, ```Python```, ```NodeJs```, entre outras). Utilize a linguagem que achar melhor! (pontos extras para quem usar Javascript ;D)
 
 Os exercícios tem um valor (pontos), quanto mais pontos você fizer melhor!
 
