@@ -16,7 +16,7 @@ Todo o seu código deve ser disponibilizado em um repositório em seu _github_ o
 
 Boa sorte!
 
-## 2 DESAFIOS
+## 2. DESAFIOS
 
 Tutorial de como utilizar o URI: https://www.loom.com/share/1a7b7b00c41e4975aca013ef0814410b
 
@@ -39,8 +39,11 @@ Tutorial de como utilizar o URI: https://www.loom.com/share/1a7b7b00c41e4975aca0
   - Média 3: https://www.urionlinejudge.com.br/judge/pt/problems/view/1040
   - Maior e Posição: https://www.urionlinejudge.com.br/judge/pt/problems/view/1080
 
-### 2.4 Difícil (10 pontos, exercício extra)
+### 2.4 Difícil (6 pontos, exercício extra)
   - A Lenda de Flavious Josephus: https://www.urionlinejudge.com.br/judge/pt/problems/view/1030
+
+### 2.5 Difícil (10 pontos, exercício extra)
+  - Colônia de Formigas: https://www.urionlinejudge.com.br/judge/pt/problems/view/1135
 
 ## 3 BOA SORTE
 <p align="center">
