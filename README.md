@@ -33,8 +33,8 @@ Tutorial de como utilizar o URI: https://www.loom.com/share/1a7b7b00c41e4975aca0
 
 ### 2.3 MÉDIO (3 pontos cada, fazer no mínimo 2 exercícios)
   - Sequência de Números e Soma: https://www.urionlinejudge.com.br/judge/pt/problems/view/1101
-  - Soma de Impares Consecutivos II: https://www.urionlinejudge.com.br/judge/pt/problems/view/1099
-  - Experiencias: https://www.urionlinejudge.com.br/judge/pt/problems/view/1094
+  - Soma de Ímpares Consecutivos II: https://www.urionlinejudge.com.br/judge/pt/problems/view/1099
+  - Experiências: https://www.urionlinejudge.com.br/judge/pt/problems/view/1094
   - Positivos e média: https://www.urionlinejudge.com.br/judge/pt/problems/view/1064
   - Média 3: https://www.urionlinejudge.com.br/judge/pt/problems/view/1040
   - Maior e Posição: https://www.urionlinejudge.com.br/judge/pt/problems/view/1080
