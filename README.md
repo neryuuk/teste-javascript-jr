@@ -8,7 +8,7 @@ Se você recebeu um convite para estar aqui você faz parte de um grupo de pesso
 
 Fizemos este teste com muito carinho e esperamos que você consiga se sair bem 👍
 
-O teste consiste em testar sua lógica de programação! Para isso utilizamos a ferramenta [URI](https://www.urionlinejudge.com.br), uma plataforma com diversos problemas de maratona de programação, onde você pode utilizar diversas linguagens para resolvê-los (```Java```, ```Python```, ```NodeJs```, entre outras). Utilize a linguagem que achar melhor! (pontos extras para quem usar Javascript ;D)
+O teste consiste em testar sua lógica de programação! Para isso utilizamos a ferramenta [URI](https://www.urionlinejudge.com.br), uma plataforma com diversos problemas de maratona de programação, onde você pode utilizar diversas linguagens para resolvê-los (```Java```, ```Python```, ```Javascript```, entre outras). Utilize a linguagem que achar melhor! (pontos extras para quem usar Javascript ;D)
 
 Os exercícios tem um valor (pontos), quanto mais pontos você fizer melhor!
 
@@ -17,12 +17,11 @@ Todo o seu código deve ser disponibilizado em um repositório em seu _github_ o
 Boa sorte!
 
 ## 2. DESAFIOS
-
 Tutorial de como utilizar o URI: https://www.loom.com/share/1a7b7b00c41e4975aca013ef0814410b
 
 
 ### 2.1 INICIANTE (1 ponto cada, fazer no mínimo 2 exercícios)
-  - Área do circulo: https://www.urionlinejudge.com.br/judge/pt/problems/view/1002
+  - Área do círculo: https://www.urionlinejudge.com.br/judge/pt/problems/view/1002
   - Salário com bônus: https://www.urionlinejudge.com.br/judge/pt/problems/view/1009
   - Cédulas: https://www.urionlinejudge.com.br/judge/pt/problems/view/1018
 
